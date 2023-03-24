@@ -7,7 +7,9 @@
 // ==========================================
 
 
-
+for (let i = 1; i < 4; i++) {
+    console.log('Hoera!');
+}
 
 
 // ==========================================
@@ -20,9 +22,9 @@
 // De waarde van i is: 4
 // ==========================================
 
-
-
-
+for (let i = 0; i <= 4; i++) {
+    console.log('De waarde van i is:' + i)
+}
 
 // ==========================================
 // Opdracht 3a. Maak een for-loop die de waarde van i logt. De loop begint bij 2 (!) en loopt tot en met 10.
